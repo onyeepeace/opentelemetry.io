@@ -1735,6 +1735,18 @@
     "StatusCode": 206,
     "LastSeen": "2025-11-21T19:23:12.089303-05:00"
   },
+  "https://docs.docker.com/reference/api/engine/version/v1.52/#tag/Container/operation/ContainerInspect": {
+    "StatusCode": 206,
+    "LastSeen": "2025-11-22T10:35:07.421431357Z"
+  },
+  "https://docs.docker.com/reference/api/engine/version/v1.52/#tag/Container/operation/ContainerStats": {
+    "StatusCode": 206,
+    "LastSeen": "2025-11-22T10:35:08.136468454Z"
+  },
+  "https://docs.docker.com/reference/api/engine/version/v1.52/#tag/Image/operation/ImageInspect": {
+    "StatusCode": 206,
+    "LastSeen": "2025-11-22T10:35:03.363219662Z"
+  },
   "https://docs.dynatrace.com/docs/shortlink/opentelemetry-collector": {
     "StatusCode": 206,
     "LastSeen": "2025-11-15T09:39:03.595520766Z"
